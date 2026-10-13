@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/RLEnv.dir/link.d CMakeFiles/RLEnv.dir/render/main_visual.cpp.o CMakeFiles/RLEnv.dir/render/Renderer.cpp.o CMakeFiles/RLEnv.dir/engine/Track.cpp.o CMakeFiles/RLEnv.dir/engine/Agent.cpp.o CMakeFiles/RLEnv.dir/engine/TrackPresets.cpp.o -o RLEnv  -lraylib
